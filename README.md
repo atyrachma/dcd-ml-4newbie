@@ -18,6 +18,19 @@
 
 (2) SL, UL
 
+    a. Supervised : Classification
+    b. SKLearn Decision Tree
+    c. Supervised : Regression
+    d. SKLearn Linear Regression
+    e. SKLearn Logistic Regression
+    f. UL
+    g. Unsupervised : Clustering
+    h. K-means Clustering
+    i. SKLearn K-means
+    j. Recommendation
+    k. Dimensionality Reduction : LDA, PCA, dan t-SNE
+    l. SKLearn PCA
+
 (3) SVM
 
 (4) ML Basic
