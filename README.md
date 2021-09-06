@@ -3,7 +3,7 @@
 (1) Data Introductory
 
     a. Type of Machine Learning
-    b. Popular Library
+    b. Popular Library: numpy, pandas, matplotlib, scikitlearn, tensorflow, pytorch, keras
     c. Data Collecting
     d. Data Cleaning
     e. Data Processing
