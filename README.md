@@ -23,7 +23,7 @@
     c. Supervised : Regression
     d. SKLearn Linear Regression
     e. SKLearn Logistic Regression
-    f. UL
+    f. UL : baca lagi
     g. Unsupervised : Clustering
     h. K-means Clustering
     i. SKLearn K-means
