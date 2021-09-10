@@ -5,8 +5,8 @@
     a. Type of Machine Learning
     b. Popular Library: numpy, pandas, matplotlib, scikitlearn, tensorflow, pytorch, keras
     c. Data Collecting
-    d. Data Cleaning
-    e. Data Processing
+    d. Data Cleaning (trans, scaled, duplicate, missing value by mode, median, or mean, skewness dist(imbalanced)
+    e. Data Processing (One Hot Encoding)
     f. Pandas Dataframe Conversion
     g. Data Preparation with: One-Hot-Encoding
     h. Data Preparation with: Normalization dan Standardization
